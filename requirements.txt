@@ -1,0 +1,9 @@
+flask==3.0.3
+werkzeug==3.0.3
+pypdf==3.17.0
+spacy==3.6.0
+textacy==0.13.0
+fastembed~=0.2.2
+qdrant-client==1.8.2
+tqdm
+en-core-web-md @ https://github.com/explosion/spacy-models/releases/download/en_core_web_md-3.6.0/en_core_web_md-3.6.0-py3-none-any.whl#sha256=1618fc62e7aedc2b778caa3ea6e9c8280beac3b83fe7b93316cbb9e8f3abe7c5
