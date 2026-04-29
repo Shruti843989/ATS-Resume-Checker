@@ -8,7 +8,7 @@ A simple web app that checks how well a resume matches a job description.
 - See matched and missing keywords
 
 ## Tech Used
-- Flask  
+- Flask
 - spaCy  
 - pypdf  
 
